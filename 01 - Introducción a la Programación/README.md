@@ -2,6 +2,12 @@
 
 # Primeros Pasos
 
+## Grabación de la Introducción
+
+<div class="iframeContainer">
+  <iframe src="https://player.vimeo.com/video/675579075" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
+
 #### Preparando tu computadora
 Antes de comenzar deberás descargar en tu computadora las siguientes herramientas de trabajo:
 1. Editor de texto
@@ -9,7 +15,7 @@ Antes de comenzar deberás descargar en tu computadora las siguientes herramient
 3. Github
 4. Python
 
-Luego deberás realizar la clonación del repositorio, te explicamos cómo hacerlo en el tutorial: 
+Luego deberás realizar la clonación del [repositorio](https://github.com/soyHenry/Python-Prep). Te explicamos cómo hacerlo en el tutorial: 
 
 
 <div class="iframeContainer">
@@ -25,9 +31,8 @@ Slack es una plataforma de comunicación que utilizamos en Henry para estar cone
 ### ¿Cómo usar SLACK?
 
 A continuación te mostramos cómo funciona: 
-
 <div class="iframeContainer">
-  <iframe src="https://player.vimeo.com/video/548902078" title="Cómo usar SLACK" allow="autoplay; fullscreen; picture-in-picture"></iframe>
+ <iframe src="https://player.vimeo.com/video/548902078?h=e82a766bab&title=0&byline=0&portrait=0&speed=0&badge=0&autopause=0&player_id=0&app_id=58479" width="1264" height="720" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Prep Course - Intro a Slack"></iframe>
 </div>
 
 > Gracias [Nico Constantin (FT#12)](https://github.com/NicoConstantin) por el video y la explicación!
@@ -241,7 +246,9 @@ Ya tenemos todo para empezar... Éxitos!!! 🍀
 
 Es un lenguaje de programación sencillo de leer y escribir debido a su alta similitud con el lenguaje humano. Además, se trata de un lenguaje multiplataforma de código abierto y, por lo tanto, gratuito, lo que permite desarrollar software sin límites
 
-### Instalación de Python si estás usando Windows:
+### Instalación 
+
+Si estás usando Windows:
 
 Python 3.7 (o superior)
 1. Para obtener el instalador dirígete a [https://www.python.org/downloads/](https://www.python.org/downloads/)
@@ -249,7 +256,7 @@ Python 3.7 (o superior)
 3. Habilita la casilla de verificación en Install launcher for all users y Add Python 3.8 to PATH. A continuación presiona en Install Now. Windows te solicitará permisos para instalar Python en tu computadora.
 4. Al finalizar la instalación se abrirá una ventana, en ella deberás presionar en la opción Disable path length limit. Windows te solicitará permisos para realizar este cambio.
 
-## Instalación de Python si estás usando Mac:
+Si estás usando Mac:
 
 Mac OS X suele tener python instalado por defecto. Para verificarlo abrí la terminal, en el buscador de tu Mac, y escribí Python. Comprobar que está correctamente instalado: 
 
@@ -263,7 +270,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 Si no te figura o queres descargar la última versión dirígete a: [https://es.wikibooks.org/wiki/Python/Instalaci%C3%B3n_de_Python/Python_en_Mac_OS_X](https://es.wikibooks.org/wiki/Python/Instalaci%C3%B3n_de_Python/Python_en_Mac_OS_X)
 
-## Instalación de Python si estás usando Linux:
+Si estás usando Linux:
 
 En una distribución estándar Linux dispone por defecto el intérprete Python instalado, para comprobar la correcta instalación solamente debería ejecutar el comando en la consola:
 
@@ -301,6 +308,17 @@ De nuevo vuelva a ejecutar en su consola de comando el comando python. Ya están
 6) Funciones
 7) Clases y POO
 8) Manejo de Errores
+9) Vinculación con datos externos
+
+## Grabación de la Clase 1
+
+<div class="iframeContainer">
+  <iframe src="https://player.vimeo.com/video/675578368" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
+
+## Repositorio del curso
+
+https://github.com/soyHenry/Python-Prep
 
 # Introducción a la Programación
 
@@ -370,7 +388,7 @@ Para conocer mejor el lenguaje que estaremos aprendiendo les compartimos una col
 
 ## Homework
 
-Completa la tarea descrita en el archivo [README](https://github.com/soyHenry/Prep-Course/tree/main/02-JS-I/homework)
+Instalar Visual Studio Code, GitHub y Python para poder comenzar!
 
 <table class="hide" width="100%" style='table-layout:fixed;'>
   <tr>
